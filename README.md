@@ -1,6 +1,6 @@
 # More Than Gold
 
-A photo-led EDUH4058 homepage by Blair Franciscus, connecting friendly class competition at the Sydney Opera House with hearing Australian Olympians speak and reflecting on national sporting pride.
+A photo-led EDUH4058 homepage by Blair Franciscus, following the day in order: meeting Australian Olympians, walking around Circular Quay, then completing class challenges at the Sydney Opera House and reflecting on national sporting pride.
 
 Open `index.html` in a browser, or run `python3 -m http.server 8000` in this folder and visit http://localhost:8000. No build or dependencies are required. Google Fonts has local fallbacks.
 
